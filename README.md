@@ -2,7 +2,8 @@
 
 # Tip-Time
 
-
+## Funcionamento
+<img src="readme/TipTime.gif" width="620">
 
 
 ## 📁 Acesso ao projeto
